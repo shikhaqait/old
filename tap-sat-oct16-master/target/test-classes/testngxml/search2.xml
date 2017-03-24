@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+ <suite name="Suite" preserve-order="true" parallel="false">
+   <test name="Test1">
+    <classes>
+     <class name="com.qait.demo.tests.TestLevel1_SnapDeal_Selenium_Imported_From_IDE_Broken_Needs_To_Be_Fixed"/>
+     
+   </classes>
+ </test> <!-- Test -->
+</suite> <!-- Suite -->
